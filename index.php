@@ -1,5 +1,5 @@
 <?php 
-include("pokemon.php");
+include("Pokemon.php");
 ?>
 
 <!DOCTYPE html>
