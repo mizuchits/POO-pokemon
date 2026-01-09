@@ -11,8 +11,8 @@ include("Pokemon.php");
 </head>
 <body>
     <?php 
-    $gobou = new pokemon('gobou', '50', 10, 'eau', 'false');
-    $evoli = new pokemon('evoli', '50', 10,'normal', 'false');
+    $gobou = new pokemon('gobou', '100', 20, 'eau', 'false');
+    $evoli = new pokemon('evoli', '100', 20,'normal', 'false');
     $gobou->arene($evoli, $gobou);
     ?>
      
